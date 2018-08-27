@@ -1,0 +1,15 @@
+
+Printed using a graph by printer with priority 4
+About Task 1
+--------------------------------------------------
+Color - Blue #DCDCDC
+Paper - 594x841
+Text - Print pls
+--------------------------------------------------
+Printed circularly by printer with priority 0
+About Task 2
+--------------------------------------------------
+Color - Red #F83018
+Paper - 297x420
+Text - Pi
+--------------------------------------------------

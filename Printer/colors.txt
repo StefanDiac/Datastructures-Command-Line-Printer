@@ -1,0 +1,5 @@
+Black #000000
+Blue #DCDCDC
+Red #F83018
+White #FFFFFF
+Pink #FFBFD8
